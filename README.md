@@ -1,10 +1,15 @@
-# 💫 Hi 👋, I'm Madhav Bhardwaj
-**A passionate Data Scientist || ML Engineer || Programmer**
 
-- 🌱 **I’m currently learning:** MLOps, Gen AI, Drone Technology
-- 📫 **How to reach me:** bhardwajmadhav715@gmail.com
-- 😄 **Pronouns:** Madhav Bhardwaj
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+<h1 align="center"> 💫 Hi 👋, I'm Madhav Bhardwaj</h1>
+<h3 align="center">This is the plaace where I commit, upload and search for opensource.I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. </h3>
+
+
+- 🔭 I’m currently working on **DSA, Tableau, Power BI**
+
+- 🌱 I’m currently learning **MLOps, Gen AI, Drone Technology**
+
+- 💬 Ask me about **DSA , ML, GEN AI**
+
+- 📫 How to reach me **bhardwajmadhav715@gmail.com**
 
 
 ## 🌐 Socials:
